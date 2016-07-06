@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>left32.png</file>
+    <file>right32.png</file>
+    <file>right.png</file>
+    <file>548418.png</file>
+    <file>548419.png</file>
+    <file>548422.png</file>
+    <file>548423.png</file>
+  </qresource>
+</RCC>
